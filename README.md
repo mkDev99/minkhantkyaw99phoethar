@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minkhantkyaw99phoethar
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming, web development and full stack development.
 - 🌱 I’m currently learning front end development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on basic web pages development
 - 📫 How to reach me minkhantkyaw.99.phoethar@gmail.com
 
 I am from Yangon.
